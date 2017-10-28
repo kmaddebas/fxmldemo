@@ -1,7 +1,7 @@
 package application;
 
 
-//https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm	
+//from https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm	
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
